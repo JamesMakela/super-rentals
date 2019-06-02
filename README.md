@@ -1,7 +1,6 @@
 # super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is basically the result of the Ember tutorial in which a simple housing rental site is built.  I just wanted to preserve it in its completed state in case I was messing with it and irreversably corrupted it locally.
 
 ## Prerequisites
 
